@@ -16,6 +16,6 @@
 - 🔭 No momento não estou trabalhando só estudando.
 - 🌱 Estudando desenvolvimento full stack.
 - 🤔 Qualquer ajuda é sempre bem-vindo.
-- 📫 Contateme por E-mail: jadymaciel@gmail.com
+- 📫 Contate-me por E-mail: jadymaciel@gmail.com
 
 
