@@ -11,7 +11,7 @@
   <img align="center" alt="Jady-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
-  ![Snake animation](https://github.com/rafaballerini/jadymaciel/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/jadymaciel/jadymaciel/blob/output/github-contribution-grid-snake.svg)
   
 - 🔭 No momento não estou trabalhando só estudando.
 - 🌱 Estudando desenvolvimento full stack.
