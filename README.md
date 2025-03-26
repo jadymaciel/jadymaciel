@@ -13,7 +13,7 @@
   
   ![Snake animation](https://github.com/jadymaciel/jadymaciel/blob/output/github-contribution-grid-snake.svg)
   
-- 🔭 No momento não estou trabalhando só estudando.
+- 🔭 Estou trabalhando e estudando.
 - 🌱 Estudando desenvolvimento full stack.
 - 🤔 Qualquer ajuda é sempre bem-vindo.
 - 📫 Contate-me por E-mail: jadymaciel@gmail.com
